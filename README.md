@@ -14,3 +14,5 @@ The task included following four steps-
 ### Technologies used- PowerBI, Tableau, PowerPoint
 
 After completion, I had a PowerBI dashboard, a powerpoint presentation of the whole insights after Data Visualization work and a certificate of completion for the Virtual Experience Program.
+### FINAL DASHBOARD-
+![Screenshot 2023-09-06 153334](https://github.com/salonimeshram13/TATA-Virtual-Experience-Project/assets/136232688/4959fecc-9c21-4dae-9f43-dd72bcfd56c1)
